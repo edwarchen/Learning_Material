@@ -1,0 +1,36 @@
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs & caches
+*.log
+*.tmp
+*.swp
+.cache/
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node / JS
+node_modules/
+dist/
+build/
+.env*
+
+# Misc tools
+.parcel-cache/
+.turbo/
+.sass-cache/
+
+# Misc
+# Add tool/language-specific ignores per project as needed
